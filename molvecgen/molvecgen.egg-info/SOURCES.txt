@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+molvecgen/__init__.py
+molvecgen/generators.py
+molvecgen/vectorizers.py
+molvecgen.egg-info/PKG-INFO
+molvecgen.egg-info/SOURCES.txt
+molvecgen.egg-info/dependency_links.txt
+molvecgen.egg-info/not-zip-safe
+molvecgen.egg-info/requires.txt
+molvecgen.egg-info/top_level.txt
